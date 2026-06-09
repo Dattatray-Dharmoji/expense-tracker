@@ -1,17 +1,62 @@
-# expense_tracker
+# Expense Tracker App
 
-A new Flutter project.
+A Flutter application for tracking daily expenses and managing personal finances.
+
+## Features
+
+* Add new expenses
+* Categorize expenses
+* View expense history
+* Weekly expense chart
+* Responsive and user-friendly UI
+
+## Tech Stack
+
+* Flutter
+* Dart
+* Material Design
+
+## Project Structure
+
+```text
+lib/
+├── models/
+├── widgets/
+│   ├── chart/
+│   └── expenses_list/
+└── main.dart
+```
+
+## Screenshots
+
+Add screenshots here later.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone https://github.com/Dattatray-Dharmoji/expense-tracker.git
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+2. Install dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+
+3. Run the application
+
+```bash
+flutter run
+```
+
+## Author
+
+Dattatray Dharmoji
+
+Portfolio:
+https://dattatraydharmoji.infinityfreeapp.com/
+
+LeetCode:
+https://leetcode.com/u/Dattatray_Dharmoji/
